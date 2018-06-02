@@ -1,0 +1,75 @@
+body {
+
+background-color: teal;
+font-size: 150%;
+text-align: center;
+
+}
+
+h2 {
+
+  text-decoration: underline;
+  font-size: 1.2em;
+  text-align: center;
+
+}
+
+p.para1 {
+
+color: blue;
+
+}
+
+p.para2 {
+
+color: purple;
+
+}
+
+#para3homepage {
+
+  color: white;
+  font-size: 15px;
+  line-height:1.9em;
+  background-color: #e5e4d7;
+  padding: 20px;
+  border-style:solid;
+  border-width: 2px;
+  background-image: url(sky.jpeg);
+
+
+}
+
+#para4homepage {
+
+  color: black;
+  font-size: 15px;
+  line-height:1.9em;
+  background-color: #e5e4d7;
+  padding: 20px;
+  border-color: #296A64;
+  border-style:ridge;
+  border-width: thick;
+  margin: 20px;
+  margin-top:50px;
+  margin-left:400px;
+  border-radius: 10px; /*this is for rounding corners */
+  
+  /* we can specify which corner we want to curve :
+  border-bottom-left-radius:0px;
+  border-bottom-right-radius:0px;
+  border-top-left-radius:10px;
+  border-top-right-radius:10px; */
+
+}
+
+.imagec{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 3px;
+  background-color: silver;
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+}
