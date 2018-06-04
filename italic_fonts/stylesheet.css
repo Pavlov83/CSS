@@ -1,4 +1,4 @@
-body{
+head{
 
   color:green;
   font-family:Verdana,Arial,Geneva,Arial Black;
@@ -7,19 +7,20 @@ body{
   font-size: 25px;
 
   }
-  h1{
-
+  #h1{
+    text-align: center;
     text-decoration:underline;
     font-size: 150%;
   }
 
   h2{
-
+      text-align: center;
       text-decoration:underline;
       font-size: 1.2em;
     }
 
   .blue{
+    text-align: center;
     color:purple;
     font-size: 25px;
   }
