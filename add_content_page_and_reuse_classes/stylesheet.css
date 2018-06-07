@@ -1,18 +1,3 @@
-h1{
-  text-align: center;
-  text-decoration: underline;
-  font-size: 150%;
-  text-align:center;
-}
-
-h2{
-  color-green;
-  text-align: center;
-  text-decoration: underline;
-  font-size: 150%;
-
-}
-
 body{
 
   color: black;
@@ -20,6 +5,29 @@ body{
   font-weight:normal;
   background-color: #ffcf79;
   font-size: 25px;
+}
+
+h1{
+color: green;
+text-decoration: underline;
+font-size:150%;
+text-align:center;
+}
+
+h2{
+  color:green;
+  text-decoration:underline;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+h3{
+  color:green;
+  text-decoration:underline;
+}
+
+#para1homepage{
+  color:blue;
 }
 
 p.para1{
@@ -34,7 +42,7 @@ p.para1{
 
 }
 
-img.imagec{
+img.image{
 
   display: block;
   align-content: center;
@@ -46,6 +54,12 @@ img.imagec{
   border-width: 2px;
   border-style: solid;
 
+}
 
+.divmain{
+  color: black;
+}
 
+#divbass{
+  color:black;
 }
