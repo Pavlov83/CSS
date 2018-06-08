@@ -1,0 +1,26 @@
+body{
+
+    font-family: 'Montserrat' , sans-serif;
+
+}
+
+#product-overview{
+    background: #ff1b68;
+}
+
+.section-title{
+
+    color:#2ddf5c;
+
+}
+
+h1{
+    color: white;
+    font-family:'Anton', sans-serif;
+}
+
+
+
+/* Inheritance means that an element inherits
+some styles of the parent element.Still the rule is:
+any direct selector have higher priority(specifity)than the other elements*/

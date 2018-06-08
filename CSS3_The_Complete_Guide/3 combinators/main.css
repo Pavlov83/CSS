@@ -1,0 +1,48 @@
+body{
+
+    font-family: 'Montserrat' , sans-serif;
+
+}
+
+#product-overview{
+    background: #ff1b68;
+}
+
+.section-title{
+
+    color:#2ddf5c;
+    font-family: inherit;
+
+}
+
+h1{
+    color: white;
+    font-family:'Anton', sans-serif;
+}
+
+/*Combinator allows us to combine multiple selectors
+
+First type is the "Adjacent Sibling":
+
+div + p {
+
+}
+
+Second type is "General Sibling"
+div ~ p{
+
+}
+
+Third type is "Child Sibling"
+div > p{
+
+}
+
+Fourht type is "Decendant":
+
+div p {
+
+}
+
+*/
+

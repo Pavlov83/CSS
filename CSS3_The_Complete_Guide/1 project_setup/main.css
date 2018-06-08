@@ -1,0 +1,23 @@
+#product-overview{
+    background: #ff1b68;
+}
+
+h1{
+    color: white;
+    font-family:'Anton', sans-serif;
+}
+
+.section-title{
+
+    color:#2ddf5c;
+
+}
+
+/* Very important to remember is that:
+There is an hierarchy of overriding the rules
+e.g. The * (select whole page has the lowest)
+tags like <h1>,<p>... have higher,
+class like .section-style  higher,
+id like #product-overview,
+The selector with highest priority is 
+inline selector but is used rarely. */
